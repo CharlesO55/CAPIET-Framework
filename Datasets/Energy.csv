@@ -1,0 +1,16 @@
+Surname,Sex,Age,Grade,Class,IsSecondTime,Pretest,Posttest,Diff
+Apresto,F,10,4,Maginoo,,3,2,-1
+Bargo,F,10,5,Mapitagan,,12,10,-2
+Bernando,M,9,4,Magiting,,6,4,-2
+Callos,F,11,6,Mayumi,,2,3,1
+Capillano,F,11,6,Marangal,,5,0,-5
+Galan,F,12,6,Marangal,1,4,4,0
+Gonzaga,M,11,6,Marangal,1,12,10,-2
+Helig,F,8,4,Matapat,,2,1,-1
+Hermano,F,11,6,Mayumi,1,1,3,2
+Loyola,F,9,5,Mapagmahal,,6,9,3
+Malabriga,F,11,4,Maginoo,,1,1,0
+Mendoza,M,9,5,Mapagmahal,,5,3,-2
+Nera,M,11,6,Mayumi,1,3,0,-3
+Parame,M,10,4,Magiting,,1,2,1
+Tolentino,M,9,5,Mapitagan,,12,12,0
